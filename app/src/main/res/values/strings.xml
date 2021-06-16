@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Movies Catalogue</string>
+    <string name="title_home">Home</string>
+    <string name="title_film">Movie</string>
+    <string name="title_tv">TV Show</string>
+    <string name="title_fav">Favorite</string>
+    <string name="title_movie">Movie Title</string>
+    <string name="title_genre">Genre</string>
+    <string name="title_tanggal">Release Date</string>
+    <string name="title_runtime">Runtime</string>
+    <string name="title_production_companies">Production Companies</string>
+    <string name="title_bahasa">Language</string>
+    <string name="title_deskripsi">Description</string>
+    <string name="title_status">Status</string>
+    <string name="title_budget">Budget</string>
+    <string name="title_revenue">Revenue</string>
+    <string name="title_tvshow">Tv Show Title</string>
+    <string name="title_production">Production Details</string>
+    <string name="title_detail_movie">Movie Details</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="empty_search">Data Not Found</string>
+    <string name="runtime">Minute</string>
+    <string name="img_backdrop">Movie Background</string>
+    <string name="text_episode">Episode Number</string>
+    <string name="text_season">Season Number</string>
+    <string name="title_vote_average">Popularity</string>
+    <string name="title_detail_tv">Tv Show Details</string>
+
+    <string name="like">Like</string>
+    <string name="dislike">Dislike</string>
+    <string name="pesan_like">Are you sure want add this movie to list favorite ?</string>
+    <string name="pesan_dislike">Are you sure want delete this movie to list favorite ?</string>
+    <string name="remove_favorite">Favorite has been deleted !</string>
+    <string name="save_favorite">You add this movie to list favorite</string>
+    <string name="error_favorite">Favorite failed!</string>
+    <string name="data_notfound">Data Not Found!</string>
+    <string name="exit">Exit</string>
+    <string name="pesan_exit">Are you sure want to exit the application ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
